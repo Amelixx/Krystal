@@ -1,0 +1,1453 @@
+{
+    "451799907817488406": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 3912,
+                "stats": 23,
+                "color": 217,
+                "eval": 711,
+                "clear": 29,
+                "banish": 124,
+                "help": 123,
+                "balance": 48,
+                "apply": 3,
+                "colorroles": 31,
+                "send": 99,
+                "free": 78,
+                "partner": 57,
+                "sendchannel": 67,
+                "temp": 31,
+                "8ball": 223,
+                "rank": 701,
+                "levels": 157,
+                "purpsy": 26,
+                "customise": 154,
+                "monthlylevels": 114,
+                "avatar": 85,
+                "config": 2,
+                "invite": 22,
+                "petmarket": 2,
+                "roleinfo": 20,
+                "play": 49,
+                "devtools": 19,
+                "purpsyface": 5,
+                "asciiface": 59,
+                "botLevels": 1,
+                "botlevels": 10,
+                "botmonthlylevels": 2,
+                "blocktext": 13,
+                "marry": 99,
+                "divorce": 45,
+                "transfer": 4,
+                "levelup": 18,
+                "feature": 89,
+                "viewfeatures": 15,
+                "youtubestats": 30,
+                "ship": 20,
+                "reply": 84,
+                "saveGuild": 2,
+                "profile": 26,
+                "rps": 55,
+                "spin": 36,
+                "featuregame": 60,
+                "start": 18
+            },
+            "97238312355364864": {
+                "total": 2300,
+                "stats": 16,
+                "eval": 702,
+                "clear": 27,
+                "banish": 61,
+                "help": 36,
+                "balance": 20,
+                "colorroles": 13,
+                "send": 80,
+                "free": 43,
+                "partner": 48,
+                "sendchannel": 67,
+                "temp": 31,
+                "rank": 288,
+                "levels": 99,
+                "customise": 31,
+                "monthlylevels": 47,
+                "avatar": 47,
+                "color": 4,
+                "config": 2,
+                "invite": 19,
+                "roleinfo": 18,
+                "play": 47,
+                "8ball": 49,
+                "devtools": 19,
+                "purpsy": 6,
+                "purpsyface": 5,
+                "asciiface": 55,
+                "botLevels": 1,
+                "botlevels": 10,
+                "botmonthlylevels": 2,
+                "blocktext": 6,
+                "marry": 61,
+                "divorce": 27,
+                "transfer": 4,
+                "levelup": 4,
+                "feature": 89,
+                "viewfeatures": 14,
+                "youtubestats": 29,
+                "ship": 7,
+                "reply": 59,
+                "saveGuild": 2,
+                "profile": 10,
+                "rps": 13,
+                "spin": 2,
+                "featuregame": 60,
+                "start": 18
+            },
+            "457720584894414848": {
+                "total": 3,
+                "color": 3
+            },
+            "314031020120866816": {
+                "total": 1,
+                "color": 1
+            },
+            "286756561848762378": {
+                "total": 412,
+                "apply": 2,
+                "banish": 4,
+                "free": 5,
+                "clear": 1,
+                "rank": 138,
+                "purpsy": 2,
+                "levels": 22,
+                "customise": 48,
+                "monthlylevels": 25,
+                "colorroles": 2,
+                "color": 19,
+                "avatar": 7,
+                "partner": 4,
+                "marry": 18,
+                "divorce": 7,
+                "balance": 8,
+                "invite": 1,
+                "help": 13,
+                "youtubestats": 1,
+                "8ball": 3,
+                "levelup": 2,
+                "stats": 1,
+                "blocktext": 1,
+                "ship": 5,
+                "profile": 8,
+                "rps": 31,
+                "spin": 34
+            },
+            "356320190180491265": {
+                "total": 31,
+                "color": 10,
+                "rank": 10,
+                "customise": 2,
+                "help": 2,
+                "8ball": 5,
+                "asciiface": 1,
+                "rps": 1
+            },
+            "257482333278437377": {
+                "total": 331,
+                "color": 23,
+                "levels": 25,
+                "rank": 117,
+                "customise": 32,
+                "8ball": 21,
+                "monthlylevels": 20,
+                "avatar": 19,
+                "partner": 4,
+                "balance": 6,
+                "purpsy": 11,
+                "blocktext": 3,
+                "divorce": 4,
+                "marry": 6,
+                "help": 17,
+                "play": 1,
+                "viewfeatures": 1,
+                "stats": 2,
+                "ship": 2,
+                "profile": 7,
+                "reply": 1,
+                "asciiface": 2,
+                "levelup": 4,
+                "colorroles": 2
+            },
+            "330252006122061835": {
+                "total": 1,
+                "stats": 1
+            },
+            "350596821535424535": {
+                "total": 1,
+                "color": 1
+            },
+            "233301442738257920": {
+                "total": 96,
+                "banish": 17,
+                "free": 7,
+                "purpsy": 4,
+                "rank": 21,
+                "customise": 3,
+                "monthlylevels": 14,
+                "petmarket": 2,
+                "send": 18,
+                "help": 1,
+                "levels": 1,
+                "avatar": 3,
+                "stats": 1,
+                "levelup": 2,
+                "color": 1
+            },
+            "433485691435876374": {
+                "total": 2,
+                "color": 2
+            },
+            "296750415964274689": {
+                "total": 2,
+                "help": 1,
+                "8ball": 1
+            },
+            "460600499205439498": {
+                "total": 3,
+                "rank": 3
+            },
+            "299172178266554368": {
+                "total": 2,
+                "help": 2
+            },
+            "454787148596510732": {
+                "total": 17,
+                "eval": 9,
+                "purpsy": 2,
+                "partner": 1,
+                "rank": 2,
+                "clear": 1,
+                "free": 2
+            },
+            "356402076454223872": {
+                "total": 3,
+                "rank": 2,
+                "customise": 1
+            },
+            "343884786894372874": {
+                "total": 23,
+                "colorroles": 1,
+                "stats": 1,
+                "balance": 3,
+                "help": 8,
+                "8ball": 5,
+                "monthlylevels": 2,
+                "rank": 1,
+                "color": 1,
+                "levels": 1
+            },
+            "325879148079874060": {
+                "total": 2,
+                "help": 1,
+                "8ball": 1
+            },
+            "423332594277548032": {
+                "total": 1,
+                "help": 1
+            },
+            "328446142222172163": {
+                "total": 5,
+                "color": 5
+            },
+            "401064440658657310": {
+                "total": 1,
+                "rank": 1
+            },
+            "415273677190463498": {
+                "total": 3,
+                "color": 1,
+                "rank": 1,
+                "customise": 1
+            },
+            "308022233274777601": {
+                "total": 1,
+                "color": 1
+            },
+            "373846345439772674": {
+                "total": 5,
+                "color": 3,
+                "rank": 1,
+                "customise": 1
+            },
+            "304845277737779203": {
+                "total": 7,
+                "color": 1,
+                "rank": 4,
+                "customise": 1,
+                "help": 1
+            },
+            "414487032266620929": {
+                "total": 3,
+                "help": 1,
+                "color": 2
+            },
+            "323659682205925376": {
+                "total": 1,
+                "apply": 1
+            },
+            "436205547528781834": {
+                "total": 4,
+                "help": 1,
+                "color": 3
+            },
+            "291591472178921472": {
+                "total": 16,
+                "color": 2,
+                "8ball": 6,
+                "balance": 3,
+                "help": 2,
+                "levels": 1,
+                "customise": 1,
+                "rank": 1
+            },
+            "466706137614647307": {
+                "total": 67,
+                "color": 4,
+                "rank": 15,
+                "monthlylevels": 3,
+                "marry": 6,
+                "banish": 21,
+                "free": 11,
+                "divorce": 5,
+                "customise": 1,
+                "help": 1
+            },
+            "226482777481019393": {
+                "total": 1,
+                "color": 1
+            },
+            "463308179430834178": {
+                "total": 1,
+                "color": 1
+            },
+            "415886083599892481": {
+                "total": 2,
+                "color": 2
+            },
+            "416798214415450112": {
+                "total": 4,
+                "help": 1,
+                "balance": 1,
+                "color": 2
+            },
+            "450332505908969473": {
+                "total": 1,
+                "color": 1
+            },
+            "303259562281271296": {
+                "total": 1,
+                "color": 1
+            },
+            "231023426758770688": {
+                "total": 2,
+                "rank": 2
+            },
+            "388796353435926528": {
+                "total": 22,
+                "color": 8,
+                "colorroles": 1,
+                "rank": 8,
+                "customise": 1,
+                "avatar": 1,
+                "levels": 2,
+                "send": 1
+            },
+            "279186247220461569": {
+                "total": 1,
+                "color": 1
+            },
+            "172475332299849728": {
+                "total": 22,
+                "color": 1,
+                "rank": 11,
+                "purpsy": 1,
+                "help": 2,
+                "customise": 1,
+                "ship": 2,
+                "rps": 4
+            },
+            "284163505899438082": {
+                "total": 1,
+                "color": 1
+            },
+            "215886067495206914": {
+                "total": 15,
+                "rank": 8,
+                "customise": 1,
+                "color": 1,
+                "levels": 4,
+                "marry": 1
+            },
+            "399790380972900363": {
+                "total": 1,
+                "color": 1
+            },
+            "389776728169512970": {
+                "total": 1,
+                "color": 1
+            },
+            "270440851228983297": {
+                "total": 17,
+                "color": 9,
+                "rank": 1,
+                "8ball": 5,
+                "marry": 2
+            },
+            "485977326471872521": {
+                "total": 1,
+                "color": 1
+            },
+            "437182231228841994": {
+                "total": 1,
+                "color": 1
+            },
+            "292757004441616387": {
+                "total": 3,
+                "color": 3
+            },
+            "406779399321550857": {
+                "total": 4,
+                "avatar": 3,
+                "color": 1
+            },
+            "222257594109001728": {
+                "total": 1,
+                "color": 1
+            },
+            "222686667826266112": {
+                "total": 7,
+                "color": 6,
+                "rank": 1
+            },
+            "484949472867123200": {
+                "total": 2,
+                "color": 2
+            },
+            "348223716905189377": {
+                "total": 4,
+                "color": 1,
+                "rank": 1,
+                "avatar": 2
+            },
+            "187530736830644225": {
+                "total": 1,
+                "color": 1
+            },
+            "297878409927983104": {
+                "total": 2,
+                "color": 2
+            },
+            "358340440552112129": {
+                "total": 2,
+                "colorroles": 1,
+                "color": 1
+            },
+            "437881747695337502": {
+                "total": 1,
+                "color": 1
+            },
+            "385434948410015775": {
+                "total": 4,
+                "help": 1,
+                "colorroles": 1,
+                "color": 1,
+                "rank": 1
+            },
+            "320341354540564480": {
+                "total": 6,
+                "color": 3,
+                "customise": 2,
+                "rank": 1
+            },
+            "388535706986872832": {
+                "total": 1,
+                "marry": 1
+            },
+            "520700243482902529": {
+                "total": 6,
+                "marry": 1,
+                "rank": 1,
+                "color": 3
+            },
+            "276391449044451328": {
+                "total": 3,
+                "color": 2,
+                "colorroles": 1
+            },
+            "261927141141250060": {
+                "total": 1,
+                "color": 1
+            },
+            "472522684119515139": {
+                "total": 4,
+                "color": 4
+            },
+            "467588461524811796": {
+                "total": 1,
+                "help": 1
+            },
+            "485404099253370891": {
+                "total": 1,
+                "help": 1
+            },
+            "439898042330644504": {
+                "total": 1,
+                "color": 1
+            },
+            "488898772458536970": {
+                "total": 3,
+                "color": 2,
+                "colorroles": 1
+            },
+            "426201406303764500": {
+                "total": 1,
+                "color": 1
+            },
+            "490080430415151125": {
+                "total": 2,
+                "color": 1,
+                "help": 1
+            },
+            "544845364402847744": {
+                "total": 2,
+                "levels": 1,
+                "rank": 1
+            },
+            "426208733605920778": {
+                "total": 1,
+                "color": 1
+            },
+            "482301195843797024": {
+                "total": 76,
+                "colorroles": 2,
+                "color": 3,
+                "8ball": 34,
+                "rank": 22,
+                "customise": 2,
+                "play": 1,
+                "help": 5,
+                "divorce": 2,
+                "ship": 2,
+                "levelup": 2,
+                "balance": 1
+            },
+            "277109666465710081": {
+                "total": 4,
+                "color": 1,
+                "ship": 1,
+                "rank": 1,
+                "reply": 1
+            },
+            "344267511966990336": {
+                "total": 3,
+                "rank": 2,
+                "balance": 1
+            },
+            "548897713916477441": {
+                "total": 1,
+                "color": 1
+            },
+            "285449698515484672": {
+                "total": 1,
+                "color": 1
+            },
+            "517483421954473998": {
+                "total": 11,
+                "color": 9,
+                "marry": 1,
+                "avatar": 1
+            },
+            "240758092319424513": {
+                "total": 1,
+                "color": 1
+            },
+            "562684519182761986": {
+                "total": 3,
+                "color": 3
+            },
+            "134216531423789056": {
+                "total": 1,
+                "color": 1
+            },
+            "291102166633021440": {
+                "total": 50,
+                "color": 1,
+                "rank": 14,
+                "customise": 18,
+                "levels": 1,
+                "monthlylevels": 3,
+                "help": 5,
+                "8ball": 1,
+                "blocktext": 2,
+                "colorroles": 1,
+                "invite": 2,
+                "roleinfo": 2
+            },
+            "522048274689949712": {
+                "total": 3,
+                "color": 2,
+                "colorroles": 1
+            },
+            "588501830992920596": {
+                "total": 2,
+                "color": 2
+            },
+            "561610361963544596": {
+                "total": 1,
+                "color": 1
+            },
+            "365673778912559104": {
+                "total": 1,
+                "color": 1
+            },
+            "537710575720071189": {
+                "total": 1,
+                "color": 1
+            },
+            "523841001551298597": {
+                "total": 7,
+                "help": 6,
+                "stats": 1
+            },
+            "99292987573415936": {
+                "total": 1,
+                "color": 1
+            },
+            "235114940871081985": {
+                "total": 36,
+                "color": 1,
+                "rank": 14,
+                "help": 5,
+                "levelup": 2,
+                "colorroles": 3,
+                "customise": 4,
+                "blocktext": 1,
+                "8ball": 3,
+                "balance": 2,
+                "marry": 1
+            },
+            "609551225171476480": {
+                "total": 1,
+                "color": 1
+            },
+            "601415955335348237": {
+                "total": 5,
+                "rank": 2,
+                "marry": 1,
+                "color": 2
+            },
+            "223894061302415360": {
+                "total": 1,
+                "color": 1
+            },
+            "536348954347044864": {
+                "total": 1,
+                "color": 1
+            },
+            "260430574961950722": {
+                "total": 3,
+                "balance": 1,
+                "color": 2
+            },
+            "415179080351219716": {
+                "total": 1,
+                "asciiface": 1
+            },
+            "449287715603873822": {
+                "total": 1,
+                "color": 1
+            },
+            "173424358746882048": {
+                "total": 3,
+                "customise": 2,
+                "rank": 1
+            },
+            "342755170712551428": {
+                "total": 4,
+                "customise": 1,
+                "color": 1,
+                "levelup": 1,
+                "rank": 1
+            },
+            "392444262018580491": {
+                "total": 4,
+                "color": 4
+            },
+            "634143877854658570": {
+                "total": 1,
+                "color": 1
+            },
+            "635572357217648643": {
+                "total": 81,
+                "help": 3,
+                "rank": 2,
+                "banish": 21,
+                "reply": 23,
+                "8ball": 15,
+                "free": 10,
+                "rps": 2,
+                "avatar": 2,
+                "color": 2
+            },
+            "537130175754665984": {
+                "total": 41,
+                "8ball": 37,
+                "rps": 3,
+                "ship": 1
+            },
+            "542353777668390923": {
+                "total": 1,
+                "color": 1
+            },
+            "260225638097616897": {
+                "total": 36,
+                "color": 1,
+                "rank": 1,
+                "8ball": 34
+            },
+            "683021263131901975": {
+                "total": 5,
+                "color": 2,
+                "8ball": 3
+            },
+            "548816698401226762": {
+                "total": 3,
+                "color": 3
+            },
+            "719941665179303937": {
+                "total": 9,
+                "rps": 1,
+                "help": 4,
+                "colorroles": 1,
+                "color": 1,
+                "levelup": 1,
+                "balance": 1
+            },
+            "712108262496927756": {
+                "total": 2,
+                "balance": 1,
+                "profile": 1
+            },
+            "774802709433810945": {
+                "total": 3,
+                "color": 3
+            },
+            "745966174461886474": {
+                "total": 1,
+                "color": 1
+            }
+        }
+    },
+    "366204534567075840": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 732,
+                "sendchannel": 50,
+                "balance": 1,
+                "help": 21,
+                "eval": 370,
+                "rank": 27,
+                "levels": 4,
+                "clear": 12,
+                "banish": 1,
+                "send": 2,
+                "invite": 9,
+                "asciiface": 17,
+                "free": 1,
+                "inviteme": 1,
+                "8ball": 3,
+                "avatar": 10,
+                "feature": 43,
+                "viewfeatures": 16,
+                "youtubestats": 99,
+                "temp": 6,
+                "stats": 1,
+                "blocktext": 2,
+                "announce": 1,
+                "play": 3,
+                "ship": 4,
+                "divorce": 2,
+                "marry": 5,
+                "featuregame": 1,
+                "start": 7,
+                "masspermchange": 4,
+                "messagecounter": 8
+            },
+            "97238312355364864": {
+                "total": 700,
+                "sendchannel": 50,
+                "balance": 1,
+                "help": 8,
+                "eval": 368,
+                "rank": 27,
+                "levels": 4,
+                "clear": 12,
+                "banish": 1,
+                "send": 2,
+                "invite": 7,
+                "asciiface": 10,
+                "free": 1,
+                "inviteme": 1,
+                "8ball": 3,
+                "avatar": 8,
+                "feature": 43,
+                "viewfeatures": 16,
+                "youtubestats": 99,
+                "temp": 6,
+                "announce": 1,
+                "play": 1,
+                "ship": 4,
+                "divorce": 2,
+                "marry": 4,
+                "featuregame": 1,
+                "start": 7,
+                "masspermchange": 4,
+                "messagecounter": 8
+            },
+            "454787148596510732": {
+                "total": 2,
+                "eval": 2
+            },
+            "399643288082055198": {
+                "total": 2,
+                "help": 1,
+                "invite": 1
+            },
+            "233301442738257920": {
+                "total": 7,
+                "asciiface": 7
+            },
+            "257482333278437377": {
+                "total": 3,
+                "invite": 1,
+                "play": 2
+            },
+            "278983550039097355": {
+                "total": 15,
+                "help": 12,
+                "stats": 1,
+                "blocktext": 2
+            },
+            "286756561848762378": {
+                "total": 1,
+                "marry": 1
+            },
+            "712108262496927756": {
+                "total": 2,
+                "avatar": 2
+            }
+        }
+    },
+    "471099996125790208": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 57,
+                "help": 1,
+                "8ball": 5,
+                "stats": 1,
+                "rank": 16,
+                "eval": 10,
+                "avatar": 2,
+                "apply": 1,
+                "balance": 1,
+                "invite": 7,
+                "sendchannel": 1,
+                "monthlylevels": 1,
+                "levels": 5,
+                "petmarket": 1,
+                "clear": 1,
+                "purpsy": 4
+            },
+            "97238312355364864": {
+                "total": 42,
+                "help": 1,
+                "8ball": 5,
+                "stats": 1,
+                "rank": 9,
+                "eval": 10,
+                "avatar": 1,
+                "apply": 1,
+                "balance": 1,
+                "invite": 3,
+                "sendchannel": 1,
+                "monthlylevels": 1,
+                "levels": 5,
+                "petmarket": 1,
+                "clear": 1,
+                "purpsy": 1
+            },
+            "286756561848762378": {
+                "total": 10,
+                "rank": 6,
+                "invite": 2,
+                "purpsy": 2
+            },
+            "257482333278437377": {
+                "total": 4,
+                "invite": 1,
+                "purpsy": 1,
+                "rank": 1,
+                "avatar": 1
+            },
+            "205789362389123073": {
+                "total": 1,
+                "invite": 1
+            }
+        }
+    },
+    "446770975262900254": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 41,
+                "devtools": 4,
+                "colorroles": 7,
+                "temp": 5,
+                "roleinfo": 4,
+                "clear": 3,
+                "revert": 1,
+                "masspermchange": 15,
+                "rank": 1,
+                "eval": 1
+            },
+            "97238312355364864": {
+                "total": 41,
+                "devtools": 4,
+                "colorroles": 7,
+                "temp": 5,
+                "roleinfo": 4,
+                "clear": 3,
+                "revert": 1,
+                "masspermchange": 15,
+                "rank": 1,
+                "eval": 1
+            }
+        }
+    },
+    "482999905275740171": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 15,
+                "rank": 4,
+                "eval": 1,
+                "asciiface": 10
+            },
+            "97238312355364864": {
+                "total": 12,
+                "rank": 3,
+                "eval": 1,
+                "asciiface": 8
+            },
+            "233301442738257920": {
+                "total": 2,
+                "rank": 1,
+                "asciiface": 1
+            },
+            "337276109592723466": {
+                "total": 1,
+                "asciiface": 1
+            }
+        }
+    },
+    "403633086476189709": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 1,
+                "eval": 1
+            },
+            "97238312355364864": {
+                "total": 1,
+                "eval": 1
+            }
+        }
+    },
+    "491648137115729951": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 6,
+                "clear": 1,
+                "rank": 4,
+                "levels": 1
+            },
+            "97238312355364864": {
+                "total": 4,
+                "clear": 1,
+                "rank": 2,
+                "levels": 1
+            },
+            "257482333278437377": {
+                "total": 2,
+                "rank": 2
+            }
+        }
+    },
+    "529337063657701396": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 11,
+                "play": 3,
+                "help": 4,
+                "eval": 2,
+                "invite": 1,
+                "avatar": 1
+            },
+            "257482333278437377": {
+                "total": 4,
+                "play": 3,
+                "help": 1
+            },
+            "97238312355364864": {
+                "total": 6,
+                "help": 3,
+                "eval": 2,
+                "invite": 1
+            },
+            "286756561848762378": {
+                "total": 1,
+                "avatar": 1
+            }
+        }
+    },
+    "547174477373636641": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 11,
+                "rank": 4,
+                "eval": 1,
+                "levels": 1,
+                "invite": 1,
+                "help": 2,
+                "blocktext": 1,
+                "stats": 1
+            },
+            "97238312355364864": {
+                "total": 11,
+                "rank": 4,
+                "eval": 1,
+                "levels": 1,
+                "invite": 1,
+                "help": 2,
+                "blocktext": 1,
+                "stats": 1
+            }
+        }
+    },
+    "590756771958882315": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 24,
+                "eval": 23,
+                "saveGuild": 1
+            },
+            "97238312355364864": {
+                "total": 24,
+                "eval": 23,
+                "saveGuild": 1
+            }
+        }
+    },
+    "541751694241955841": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 46,
+                "rank": 2,
+                "eval": 28,
+                "ship": 11,
+                "marry": 1,
+                "help": 3,
+                "clear": 1
+            },
+            "97238312355364864": {
+                "total": 37,
+                "rank": 2,
+                "eval": 28,
+                "ship": 5,
+                "marry": 1,
+                "clear": 1
+            },
+            "537710575720071189": {
+                "total": 3,
+                "ship": 3
+            },
+            "533773295590440976": {
+                "total": 1,
+                "ship": 1
+            },
+            "277109666465710081": {
+                "total": 2,
+                "ship": 2
+            },
+            "423504813750484994": {
+                "total": 1,
+                "help": 1
+            },
+            "536348954347044864": {
+                "total": 2,
+                "help": 2
+            }
+        }
+    },
+    "612769064816869377": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 6,
+                "eval": 3,
+                "temp": 3
+            },
+            "97238312355364864": {
+                "total": 6,
+                "eval": 3,
+                "temp": 3
+            }
+        }
+    },
+    "609552032398835713": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 7,
+                "ship": 2,
+                "eval": 2,
+                "marry": 2,
+                "divorce": 1
+            },
+            "97238312355364864": {
+                "total": 7,
+                "ship": 2,
+                "eval": 2,
+                "marry": 2,
+                "divorce": 1
+            }
+        }
+    },
+    "677471030238773259": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 25,
+                "eval": 1,
+                "help": 4,
+                "config": 1,
+                "profile": 7,
+                "customise": 4,
+                "rank": 2,
+                "invite": 4,
+                "levels": 1,
+                "start": 1
+            },
+            "97238312355364864": {
+                "total": 16,
+                "eval": 1,
+                "help": 4,
+                "config": 1,
+                "profile": 3,
+                "customise": 2,
+                "rank": 2,
+                "invite": 1,
+                "levels": 1,
+                "start": 1
+            },
+            "257482333278437377": {
+                "total": 8,
+                "profile": 4,
+                "customise": 2,
+                "invite": 2
+            },
+            "676599467323162647": {
+                "total": 1,
+                "invite": 1
+            }
+        }
+    },
+    "685514130915852405": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 69,
+                "eval": 2,
+                "rps": 1,
+                "8ball": 65,
+                "ship": 1
+            },
+            "97238312355364864": {
+                "total": 11,
+                "eval": 2,
+                "rps": 1,
+                "8ball": 7,
+                "ship": 1
+            },
+            "635572357217648643": {
+                "total": 3,
+                "8ball": 3
+            },
+            "330252006122061835": {
+                "total": 20,
+                "8ball": 20
+            },
+            "286756561848762378": {
+                "total": 17,
+                "8ball": 17
+            },
+            "537130175754665984": {
+                "total": 17,
+                "8ball": 17
+            },
+            "216848032002473984": {
+                "total": 1,
+                "8ball": 1
+            }
+        }
+    },
+    "689734320784408667": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 152,
+                "avatar": 6,
+                "blocktext": 2,
+                "help": 33,
+                "rps": 14,
+                "8ball": 1,
+                "marry": 1,
+                "profile": 12,
+                "asciiface": 4,
+                "invite": 2,
+                "start": 1,
+                "rank": 7,
+                "eval": 24,
+                "finish": 1,
+                "color": 1,
+                "customise": 1,
+                "feature": 36,
+                "temp": 1,
+                "levels": 3,
+                "balance": 1,
+                "stats": 1
+            },
+            "97238312355364864": {
+                "total": 96,
+                "avatar": 4,
+                "blocktext": 1,
+                "help": 6,
+                "asciiface": 4,
+                "profile": 5,
+                "start": 1,
+                "rps": 4,
+                "rank": 4,
+                "eval": 24,
+                "finish": 1,
+                "invite": 1,
+                "feature": 36,
+                "temp": 1,
+                "levels": 3,
+                "balance": 1
+            },
+            "548816698401226762": {
+                "total": 9,
+                "help": 5,
+                "rps": 2,
+                "blocktext": 1,
+                "8ball": 1
+            },
+            "286756561848762378": {
+                "total": 18,
+                "marry": 1,
+                "profile": 4,
+                "help": 6,
+                "rps": 5,
+                "rank": 1,
+                "stats": 1
+            },
+            "257482333278437377": {
+                "total": 4,
+                "profile": 3,
+                "invite": 1
+            },
+            "660137196858114048": {
+                "total": 2,
+                "help": 2
+            },
+            "712261108026703873": {
+                "total": 3,
+                "help": 3
+            },
+            "572155710922817537": {
+                "total": 2,
+                "help": 2
+            },
+            "719941665179303937": {
+                "total": 12,
+                "rps": 2,
+                "help": 7,
+                "color": 1,
+                "rank": 1,
+                "customise": 1
+            },
+            "612723898097860608": {
+                "total": 1,
+                "rps": 1
+            },
+            "712108262496927756": {
+                "total": 2,
+                "avatar": 2
+            },
+            "362374080546209793": {
+                "total": 1,
+                "rank": 1
+            },
+            "689976858447839272": {
+                "total": 2,
+                "help": 2
+            }
+        }
+    },
+    "709533787289026703": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 30,
+                "spin": 11,
+                "ship": 1,
+                "start": 3,
+                "eval": 12,
+                "8ball": 2,
+                "finish": 1
+            },
+            "97238312355364864": {
+                "total": 27,
+                "spin": 11,
+                "ship": 1,
+                "start": 2,
+                "eval": 12,
+                "finish": 1
+            },
+            "286756561848762378": {
+                "total": 1,
+                "start": 1
+            },
+            "257482333278437377": {
+                "total": 2,
+                "8ball": 2
+            }
+        }
+    },
+    "777182202877706270": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 55,
+                "ship": 2,
+                "rps": 1,
+                "asciiface": 11,
+                "profile": 12,
+                "invite": 2,
+                "eval": 10,
+                "rank": 2,
+                "marry": 5,
+                "help": 3,
+                "8ball": 6,
+                "divorce": 1
+            },
+            "97238312355364864": {
+                "total": 30,
+                "ship": 2,
+                "rps": 1,
+                "asciiface": 11,
+                "profile": 4,
+                "eval": 10,
+                "rank": 1,
+                "help": 1
+            },
+            "286756561848762378": {
+                "total": 13,
+                "profile": 8,
+                "invite": 2,
+                "rank": 1,
+                "marry": 2
+            },
+            "745966174461886474": {
+                "total": 11,
+                "help": 2,
+                "8ball": 6,
+                "marry": 2,
+                "divorce": 1
+            },
+            "733625081112297503": {
+                "total": 1,
+                "marry": 1
+            }
+        }
+    },
+    "784576441840959548": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 11,
+                "masspermchange": 4,
+                "rank": 1,
+                "eval": 3,
+                "invite": 2,
+                "help": 1
+            },
+            "449932895919013900": {
+                "total": 6,
+                "masspermchange": 4,
+                "help": 1,
+                "invite": 1
+            },
+            "97238312355364864": {
+                "total": 5,
+                "rank": 1,
+                "eval": 3,
+                "invite": 1
+            }
+        }
+    },
+    "736441597931290724": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 6,
+                "masspermchange": 1,
+                "eval": 1,
+                "messagecounter": 4
+            },
+            "449932895919013900": {
+                "total": 1,
+                "masspermchange": 1
+            },
+            "97238312355364864": {
+                "total": 5,
+                "eval": 1,
+                "messagecounter": 4
+            }
+        }
+    },
+    "804356806503563284": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 6,
+                "masspermchange": 2,
+                "help": 4
+            },
+            "449932895919013900": {
+                "total": 2,
+                "masspermchange": 2
+            },
+            "290534911276744704": {
+                "total": 4,
+                "help": 4
+            }
+        }
+    },
+    "814320533344092181": {
+        "Command Usage": {
+            "Total Commands": {
+                "total": 1,
+                "masspermchange": 1
+            },
+            "449932895919013900": {
+                "total": 1,
+                "masspermchange": 1
+            }
+        }
+    }
+}

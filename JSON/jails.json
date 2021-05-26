@@ -1,0 +1,50 @@
+{
+    "436394509652328459": {
+        "jailedOn": 1534328289770,
+        "time": null,
+        "minutes": 0,
+        "reason": "advertising twice in lounge lmao",
+        "memberID": "436394509652328459",
+        "moderatorID": "97238312355364864"
+    },
+    "449195682130165770": {
+        "jailedOn": 1537689993545,
+        "time": 1543689993545,
+        "minutes": 100000,
+        "reason": "Rubix will deal with your ping spam later thot, advertising is not permitted you can expect a kick/ban later today",
+        "memberID": "449195682130165770",
+        "moderatorID": "233301442738257920"
+    },
+    "485948291872456704": {
+        "jailedOn": 1549918779001,
+        "time": null,
+        "minutes": 0,
+        "reason": "No reason specified.",
+        "memberID": "485948291872456704",
+        "moderatorID": "466706137614647307"
+    },
+    "388535706986872832": {
+        "jailedOn": 1551878652479,
+        "time": null,
+        "minutes": 0,
+        "reason": "No reason specified.",
+        "memberID": "388535706986872832",
+        "moderatorID": "97238312355364864"
+    },
+    "626092313784877056": {
+        "jailedOn": 1570051478583,
+        "time": null,
+        "minutes": 0,
+        "reason": "No reason specified.",
+        "memberID": "626092313784877056",
+        "moderatorID": "97238312355364864"
+    },
+    "97238312355364864": {
+        "jailedOn": 1584478244672,
+        "time": null,
+        "minutes": 0,
+        "reason": "No reason specified.",
+        "memberID": "97238312355364864",
+        "moderatorID": "635572357217648643"
+    }
+}

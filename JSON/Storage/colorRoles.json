@@ -1,0 +1,712 @@
+{
+    "Basil": {
+        "position": 53,
+        "color": 3301677,
+        "hexColor": "#32612d"
+    },
+    "Buttermilk": {
+        "position": 164,
+        "color": 16641970,
+        "hexColor": "#fdefb2"
+    },
+    "Hazel wood": {
+        "position": 172,
+        "color": 13155468,
+        "hexColor": "#c8bc8c"
+    },
+    "Boysenberry": {
+        "position": 98,
+        "color": 6750520,
+        "hexColor": "#670138"
+    },
+    "Moss": {
+        "position": 60,
+        "color": 4615454,
+        "hexColor": "#466d1e"
+    },
+    "Pear": {
+        "position": 61,
+        "color": 7583534,
+        "hexColor": "#73b72e"
+    },
+    "Sandstone": {
+        "position": 134,
+        "color": 14053673,
+        "hexColor": "#d67129"
+    },
+    "Gingerbread": {
+        "position": 41,
+        "color": 6106116,
+        "hexColor": "#5d2c04"
+    },
+    "Sangria": {
+        "position": 119,
+        "color": 6232086,
+        "hexColor": "#5f1816"
+    },
+    "Tuscan sun": {
+        "position": 148,
+        "color": 16568620,
+        "hexColor": "#fcd12c"
+    },
+    "Pecan": {
+        "position": 44,
+        "color": 4990224,
+        "hexColor": "#4c2510"
+    },
+    "Lemon": {
+        "position": 155,
+        "color": 15727968,
+        "hexColor": "#effd60"
+    },
+    "Umber": {
+        "position": 38,
+        "color": 3482389,
+        "hexColor": "#352315"
+    },
+    "Sand": {
+        "position": 166,
+        "color": 14137699,
+        "hexColor": "#d7b963"
+    },
+    "Ballet slipper": {
+        "position": 105,
+        "color": 15965375,
+        "hexColor": "#f39cbf"
+    },
+    "Maramalade": {
+        "position": 137,
+        "color": 13721602,
+        "hexColor": "#d16002"
+    },
+    "Fire": {
+        "position": 152,
+        "color": 16622863,
+        "hexColor": "#fda50f"
+    },
+    "Tangerine": {
+        "position": 145,
+        "color": 16417064,
+        "hexColor": "#fa8128"
+    },
+    "Apple": {
+        "position": 126,
+        "color": 11082763,
+        "hexColor": "#a91c0b"
+    },
+    "Peach": {
+        "position": 110,
+        "color": 16487555,
+        "hexColor": "#fb9483"
+    },
+    "Pearl": {
+        "position": 180,
+        "color": 16514295,
+        "hexColor": "#fbfcf7"
+    },
+    "Mauve": {
+        "position": 100,
+        "color": 8014470,
+        "hexColor": "#7a4a86"
+    },
+    "Bone": {
+        "position": 182,
+        "color": 15196108,
+        "hexColor": "#e7dfcc"
+    },
+    "Cerrulean": {
+        "position": 76,
+        "color": 299714,
+        "hexColor": "#0492c2"
+    },
+    "Latte": {
+        "position": 162,
+        "color": 15319419,
+        "hexColor": "#e9c17b"
+    },
+    "Currant": {
+        "position": 121,
+        "color": 6753287,
+        "hexColor": "#670c07"
+    },
+    "Crocodile": {
+        "position": 52,
+        "color": 6323515,
+        "hexColor": "#607d3b"
+    },
+    "Gold": {
+        "position": 158,
+        "color": 16426241,
+        "hexColor": "#faa501"
+    },
+    "Taffy": {
+        "position": 106,
+        "color": 16418501,
+        "hexColor": "#fa86c5"
+    },
+    "Pine": {
+        "position": 57,
+        "color": 2314014,
+        "hexColor": "#234f1e"
+    },
+    "Wood": {
+        "position": 45,
+        "color": 4141085,
+        "hexColor": "#3f301d"
+    },
+    "Crimson": {
+        "position": 127,
+        "color": 12193290,
+        "hexColor": "#ba0e0a"
+    },
+    "Eggplant": {
+        "position": 92,
+        "color": 3216434,
+        "hexColor": "#311432"
+    },
+    "Rouge": {
+        "position": 112,
+        "color": 16622778,
+        "hexColor": "#fda4ba"
+    },
+    "Blue": {
+        "position": 84,
+        "color": 3818426,
+        "hexColor": "#3a43ba"
+    },
+    "Cedar": {
+        "position": 34,
+        "color": 4863784,
+        "hexColor": "#4a3728"
+    },
+    "Red": {
+        "position": 132,
+        "color": 13644077,
+        "hexColor": "#d0312d"
+    },
+    "Heather": {
+        "position": 90,
+        "color": 10190008,
+        "hexColor": "#9b7cb8"
+    },
+    "Dandelion": {
+        "position": 153,
+        "color": 16633386,
+        "hexColor": "#fdce2a"
+    },
+    "Peanut": {
+        "position": 47,
+        "color": 7953460,
+        "hexColor": "#795c34"
+    },
+    "Cherry": {
+        "position": 131,
+        "color": 10161668,
+        "hexColor": "#9b0e04"
+    },
+    "Blush": {
+        "position": 120,
+        "color": 12342347,
+        "hexColor": "#bc544b"
+    },
+    "Amber": {
+        "position": 136,
+        "color": 8990977,
+        "hexColor": "#893101"
+    },
+    "Fuscia": {
+        "position": 116,
+        "color": 16728237,
+        "hexColor": "#ff40ad"
+    },
+    "Mustard": {
+        "position": 154,
+        "color": 15251496,
+        "hexColor": "#e8b828"
+    },
+    "Granola": {
+        "position": 171,
+        "color": 14071642,
+        "hexColor": "#d6b75a"
+    },
+    "Lavender": {
+        "position": 97,
+        "color": 14917622,
+        "hexColor": "#e39ff6"
+    },
+    "Fern": {
+        "position": 64,
+        "color": 6077539,
+        "hexColor": "#5cbc63"
+    },
+    "Tan": {
+        "position": 175,
+        "color": 15129517,
+        "hexColor": "#e6dbad"
+    },
+    "Yam": {
+        "position": 135,
+        "color": 13391873,
+        "hexColor": "#cc5801"
+    },
+    "Pink": {
+        "position": 117,
+        "color": 16226763,
+        "hexColor": "#f799cb"
+    },
+    "Merigold": {
+        "position": 144,
+        "color": 16494366,
+        "hexColor": "#fbaf1e"
+    },
+    "Orange": {
+        "position": 146,
+        "color": 15560724,
+        "hexColor": "#ed7014"
+    },
+    "Bubblegum": {
+        "position": 107,
+        "color": 16604583,
+        "hexColor": "#fd5da7"
+    },
+    "Walnut": {
+        "position": 43,
+        "color": 4990224,
+        "hexColor": "#4c2510"
+    },
+    "Caramel": {
+        "position": 42,
+        "color": 6632719,
+        "hexColor": "#65350f"
+    },
+    "Apricot": {
+        "position": 141,
+        "color": 15565326,
+        "hexColor": "#ed820e"
+    },
+    "Punch": {
+        "position": 115,
+        "color": 15880824,
+        "hexColor": "#f25278"
+    },
+    "Bumblebee": {
+        "position": 151,
+        "color": 16572933,
+        "hexColor": "#fce205"
+    },
+    "Candy": {
+        "position": 123,
+        "color": 13767684,
+        "hexColor": "#d21404"
+    },
+    "Oat": {
+        "position": 170,
+        "color": 14731400,
+        "hexColor": "#e0c888"
+    },
+    "Arctic": {
+        "position": 70,
+        "color": 8580605,
+        "hexColor": "#82edfd"
+    },
+    "Lilac": {
+        "position": 95,
+        "color": 11952335,
+        "hexColor": "#b660cf"
+    },
+    "Seaweed": {
+        "position": 55,
+        "color": 3492385,
+        "hexColor": "#354a21"
+    },
+    "Powder": {
+        "position": 178,
+        "color": 16514295,
+        "hexColor": "#fbfcf7"
+    },
+    "Aegean": {
+        "position": 74,
+        "color": 1722225,
+        "hexColor": "#1a4771"
+    },
+    "Ivory": {
+        "position": 183,
+        "color": 16643812,
+        "hexColor": "#fdf6e4"
+    },
+    "Azure": {
+        "position": 77,
+        "color": 1450150,
+        "hexColor": "#1620a6"
+    },
+    "White": {
+        "position": 184,
+        "color": 16777215,
+        "hexColor": "#ffffff"
+    },
+    "Sepia": {
+        "position": 165,
+        "color": 14923640,
+        "hexColor": "#e3b778"
+    },
+    "Shamrock": {
+        "position": 59,
+        "color": 240659,
+        "hexColor": "#03ac13"
+    },
+    "Yellow": {
+        "position": 160,
+        "color": 16704842,
+        "hexColor": "#fee54a"
+    },
+    "Rust": {
+        "position": 143,
+        "color": 9191428,
+        "hexColor": "#8c4004"
+    },
+    "Daffodil": {
+        "position": 157,
+        "color": 16641926,
+        "hexColor": "#fdef86"
+    },
+    "Periwinkle": {
+        "position": 93,
+        "color": 12424147,
+        "hexColor": "#bd93d3"
+    },
+    "Teal": {
+        "position": 78,
+        "color": 4697005,
+        "hexColor": "#47abad"
+    },
+    "Jam": {
+        "position": 129,
+        "color": 6295307,
+        "hexColor": "#600f0b"
+    },
+    "Flamingo": {
+        "position": 113,
+        "color": 16622778,
+        "hexColor": "#fda4ba"
+    },
+    "Watermelon": {
+        "position": 114,
+        "color": 16678812,
+        "hexColor": "#fe7f9c"
+    },
+    "Syrup": {
+        "position": 40,
+        "color": 4726529,
+        "hexColor": "#481f01"
+    },
+    "Brunette": {
+        "position": 36,
+        "color": 3808776,
+        "hexColor": "#3a1e08"
+    },
+    "Seafoam": {
+        "position": 58,
+        "color": 3992726,
+        "hexColor": "#3cec96"
+    },
+    "Mocha": {
+        "position": 48,
+        "color": 4929308,
+        "hexColor": "#4b371c"
+    },
+    "Strawberry": {
+        "position": 109,
+        "color": 16469327,
+        "hexColor": "#fb4d4f"
+    },
+    "Honey": {
+        "position": 149,
+        "color": 16761611,
+        "hexColor": "#ffc30b"
+    },
+    "Indigo": {
+        "position": 80,
+        "color": 2629213,
+        "hexColor": "#281e5d"
+    },
+    "Grape": {
+        "position": 94,
+        "color": 6697031,
+        "hexColor": "#663047"
+    },
+    "Sapphire": {
+        "position": 71,
+        "color": 5354430,
+        "hexColor": "#51b3be"
+    },
+    "Lapis": {
+        "position": 75,
+        "color": 2568898,
+        "hexColor": "#2732c2"
+    },
+    "Clay": {
+        "position": 140,
+        "color": 8339467,
+        "hexColor": "#7f400b"
+    },
+    "Denim": {
+        "position": 73,
+        "color": 1383997,
+        "hexColor": "#151e3d"
+    },
+    "Lipstick": {
+        "position": 122,
+        "color": 10227715,
+        "hexColor": "#9c1003"
+    },
+    "Brown": {
+        "position": 50,
+        "color": 2299657,
+        "hexColor": "#231709"
+    },
+    "Chocolate": {
+        "position": 39,
+        "color": 3020033,
+        "hexColor": "#2e1501"
+    },
+    "Wine": {
+        "position": 125,
+        "color": 4982789,
+        "hexColor": "#4c0805"
+    },
+    "Emerald": {
+        "position": 62,
+        "color": 100880,
+        "hexColor": "#018a10"
+    },
+    "Cobalt": {
+        "position": 79,
+        "color": 1259709,
+        "hexColor": "#1338bd"
+    },
+    "Coconut": {
+        "position": 179,
+        "color": 16773606,
+        "hexColor": "#fff1e6"
+    },
+    "Olive": {
+        "position": 63,
+        "color": 10010468,
+        "hexColor": "#98bf64"
+    },
+    "Violet": {
+        "position": 99,
+        "color": 7798939,
+        "hexColor": "#77009b"
+    },
+    "Carob": {
+        "position": 46,
+        "color": 3548687,
+        "hexColor": "#36260f"
+    },
+    "Chartreuse": {
+        "position": 67,
+        "color": 11533623,
+        "hexColor": "#affd37"
+    },
+    "Fawn": {
+        "position": 167,
+        "color": 13150289,
+        "hexColor": "#c8a851"
+    },
+    "Hot pink": {
+        "position": 104,
+        "color": 16717461,
+        "hexColor": "#ff1695"
+    },
+    "Coffee": {
+        "position": 49,
+        "color": 4929308,
+        "hexColor": "#4b371c"
+    },
+    "Brick": {
+        "position": 124,
+        "color": 8267793,
+        "hexColor": "#7e2811"
+    },
+    "Mulberry": {
+        "position": 86,
+        "color": 4981024,
+        "hexColor": "#4c0120"
+    },
+    "Magenta": {
+        "position": 103,
+        "color": 14751108,
+        "hexColor": "#e11584"
+    },
+    "Macaroon": {
+        "position": 173,
+        "color": 16244855,
+        "hexColor": "#f7e077"
+    },
+    "Carrot": {
+        "position": 139,
+        "color": 15757588,
+        "hexColor": "#f07114"
+    },
+    "Lemonade": {
+        "position": 108,
+        "color": 16487555,
+        "hexColor": "#fb9483"
+    },
+    "Butterscotch": {
+        "position": 150,
+        "color": 16432387,
+        "hexColor": "#fabd03"
+    },
+    "Amethyst": {
+        "position": 89,
+        "color": 10772197,
+        "hexColor": "#a45ee5"
+    },
+    "Egg nog": {
+        "position": 169,
+        "color": 16442012,
+        "hexColor": "#fae29c"
+    },
+    "Coral": {
+        "position": 111,
+        "color": 16547178,
+        "hexColor": "#fc7d6a"
+    },
+    "Linen": {
+        "position": 181,
+        "color": 15854545,
+        "hexColor": "#f1ebd1"
+    },
+    "Purple": {
+        "position": 101,
+        "color": 10693828,
+        "hexColor": "#a32cc4"
+    },
+    "Iris": {
+        "position": 91,
+        "color": 9987781,
+        "hexColor": "#9866c5"
+    },
+    "Parakeet": {
+        "position": 56,
+        "color": 180295,
+        "hexColor": "#02c047"
+    },
+    "Admiral": {
+        "position": 72,
+        "color": 397460,
+        "hexColor": "#061094"
+    },
+    "Sandcastle": {
+        "position": 163,
+        "color": 14336636,
+        "hexColor": "#dac27c"
+    },
+    "Canary": {
+        "position": 159,
+        "color": 16565761,
+        "hexColor": "#fcc601"
+    },
+    "Green": {
+        "position": 68,
+        "color": 3780931,
+        "hexColor": "#39b143"
+    },
+    "Sugar cookie": {
+        "position": 168,
+        "color": 15985327,
+        "hexColor": "#f3eaaf"
+    },
+    "Orchid": {
+        "position": 87,
+        "color": 11495918,
+        "hexColor": "#af69ee"
+    },
+    "Navy": {
+        "position": 81,
+        "color": 725363,
+        "hexColor": "#0b1173"
+    },
+    "Juniper": {
+        "position": 66,
+        "color": 3953169,
+        "hexColor": "#3c5211"
+    },
+    "Bronze": {
+        "position": 142,
+        "color": 11687437,
+        "hexColor": "#b2560d"
+    },
+    "Pickle": {
+        "position": 54,
+        "color": 5864757,
+        "hexColor": "#597d35"
+    },
+    "Spice": {
+        "position": 138,
+        "color": 8009987,
+        "hexColor": "#7a3903"
+    },
+    "Butter": {
+        "position": 156,
+        "color": 16704039,
+        "hexColor": "#fee227"
+    },
+    "Sky": {
+        "position": 82,
+        "color": 6473178,
+        "hexColor": "#62c5da"
+    },
+    "Rose": {
+        "position": 130,
+        "color": 14820139,
+        "hexColor": "#e2232b"
+    },
+    "Parchment": {
+        "position": 177,
+        "color": 16314093,
+        "hexColor": "#f8eeed"
+    },
+    "Tawny": {
+        "position": 37,
+        "color": 8406812,
+        "hexColor": "#80471c"
+    },
+    "Cinnamon": {
+        "position": 35,
+        "color": 6498829,
+        "hexColor": "#632a0d"
+    },
+    "Beige": {
+        "position": 174,
+        "color": 15523226,
+        "hexColor": "#ecdd9a"
+    },
+    "Plum": {
+        "position": 96,
+        "color": 6298166,
+        "hexColor": "#601a36"
+    },
+    "Rasin": {
+        "position": 88,
+        "color": 2689302,
+        "hexColor": "#290916"
+    },
+    "Merlot": {
+        "position": 128,
+        "color": 5512987,
+        "hexColor": "#541f1b"
+    },
+    "Lime": {
+        "position": 65,
+        "color": 11662163,
+        "hexColor": "#b1f353"
+    },
+    "Slate": {
+        "position": 83,
+        "color": 7830407,
+        "hexColor": "#777b87"
+    }
+}

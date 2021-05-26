@@ -1,0 +1,678 @@
+{
+    "0": {
+        "name": "0",
+        "hexColor": "#000000"
+    },
+    "1": {
+        "name": "1",
+        "hexColor": "#2f4f4f"
+    },
+    "2": {
+        "name": "2",
+        "hexColor": "#ff00ff"
+    },
+    "3": {
+        "name": "3",
+        "hexColor": "#00ced1"
+    },
+    "4": {
+        "name": "4",
+        "hexColor": "#8b4513"
+    },
+    "5": {
+        "name": "5",
+        "hexColor": "#e6e6fa"
+    },
+    "6": {
+        "name": "6",
+        "hexColor": "#696969"
+    },
+    "7": {
+        "name": "7",
+        "hexColor": "#00ffff"
+    },
+    "8": {
+        "name": "8",
+        "hexColor": "#20b2aa"
+    },
+    "9": {
+        "name": "9",
+        "hexColor": "#ff0000"
+    },
+    "10": {
+        "name": "10",
+        "hexColor": "#ba55d3"
+    },
+    "11": {
+        "name": "11",
+        "hexColor": "#faf0e6"
+    },
+    "12": {
+        "name": "12",
+        "hexColor": "#191970"
+    },
+    "13": {
+        "name": "13",
+        "hexColor": "#ffdead"
+    },
+    "14": {
+        "name": "14",
+        "hexColor": "#ffa07a"
+    },
+    "15": {
+        "name": "15",
+        "hexColor": "#f3a1a3"
+    },
+    "16": {
+        "name": "16",
+        "hexColor": "#4682b4"
+    },
+    "17": {
+        "name": "17",
+        "hexColor": "#f5fffa"
+    },
+    "18": {
+        "name": "18",
+        "hexColor": "#008080"
+    },
+    "19": {
+        "name": "19",
+        "hexColor": "#cd5c5c"
+    },
+    "20": {
+        "name": "20",
+        "hexColor": "#228b22"
+    },
+    "21": {
+        "name": "21",
+        "hexColor": "#db7093"
+    },
+    "22": {
+        "name": "22",
+        "hexColor": "#fff8dc"
+    },
+    "23": {
+        "name": "23",
+        "hexColor": "#fafad2"
+    },
+    "24": {
+        "name": "24",
+        "hexColor": "#ffd4d5"
+    },
+    "25": {
+        "name": "25",
+        "hexColor": "#7cfc00"
+    },
+    "26": {
+        "name": "26",
+        "hexColor": "#800000"
+    },
+    "27": {
+        "name": "27",
+        "hexColor": "#4169e1"
+    },
+    "28": {
+        "name": "28",
+        "hexColor": "#66cdaa"
+    },
+    "29": {
+        "name": "29",
+        "hexColor": "#6b8e23"
+    },
+    "30": {
+        "name": "30",
+        "hexColor": "#90ee90"
+    },
+    "31": {
+        "name": "31",
+        "hexColor": "#00008b"
+    },
+    "32": {
+        "name": "32",
+        "hexColor": "#fffafa"
+    },
+    "33": {
+        "name": "33",
+        "hexColor": "#2e8b57"
+    },
+    "34": {
+        "name": "34",
+        "hexColor": "#808080"
+    },
+    "35": {
+        "name": "35",
+        "hexColor": "#e0ffff"
+    },
+    "36": {
+        "name": "36",
+        "hexColor": "#9acd32"
+    },
+    "37": {
+        "name": "37",
+        "hexColor": "#ff7f50"
+    },
+    "38": {
+        "name": "38",
+        "hexColor": "#da70d6"
+    },
+    "39": {
+        "name": "39",
+        "hexColor": "#dda0dd"
+    },
+    "40": {
+        "name": "40",
+        "hexColor": "#98fb98"
+    },
+    "41": {
+        "name": "41",
+        "hexColor": "#f5deb3"
+    },
+    "42": {
+        "name": "42",
+        "hexColor": "#faebd7"
+    },
+    "43": {
+        "name": "43",
+        "hexColor": "#ffe4b5"
+    },
+    "44": {
+        "name": "44",
+        "hexColor": "#ff1493"
+    },
+    "45": {
+        "name": "45",
+        "hexColor": "#adff2f"
+    },
+    "46": {
+        "name": "46",
+        "hexColor": "#9400d3"
+    },
+    "47": {
+        "name": "47",
+        "hexColor": "#008b8b"
+    },
+    "48": {
+        "name": "48",
+        "hexColor": "#6495ed"
+    },
+    "49": {
+        "name": "49",
+        "hexColor": "#c0c0c0"
+    },
+    "50": {
+        "name": "50",
+        "hexColor": "#bdb76b"
+    },
+    "51": {
+        "name": "51",
+        "hexColor": "#ff69b4"
+    },
+    "52": {
+        "name": "52",
+        "hexColor": "#708090"
+    },
+    "53": {
+        "name": "53",
+        "hexColor": "#f5f5dc"
+    },
+    "54": {
+        "name": "54",
+        "hexColor": "#cd853f"
+    },
+    "55": {
+        "name": "55",
+        "hexColor": "#40e0d0"
+    },
+    "56": {
+        "name": "56",
+        "hexColor": "#f08080"
+    },
+    "57": {
+        "name": "57",
+        "hexColor": "#f77a7e"
+    },
+    "58": {
+        "name": "58",
+        "hexColor": "#008000"
+    },
+    "59": {
+        "name": "59",
+        "hexColor": "#a1f1b7"
+    },
+    "60": {
+        "name": "60",
+        "hexColor": "#ff8c00"
+    },
+    "61": {
+        "name": "61",
+        "hexColor": "#9966cc"
+    },
+    "62": {
+        "name": "62",
+        "hexColor": "#9370db"
+    },
+    "63": {
+        "name": "63",
+        "hexColor": "#add8e6"
+    },
+    "64": {
+        "name": "64",
+        "hexColor": "#ff6347"
+    },
+    "65": {
+        "name": "65",
+        "hexColor": "#b0c4de"
+    },
+    "66": {
+        "name": "66",
+        "hexColor": "#e9967a"
+    },
+    "67": {
+        "name": "67",
+        "hexColor": "#b8860b"
+    },
+    "68": {
+        "name": "68",
+        "hexColor": "#87ceeb"
+    },
+    "69": {
+        "name": "69",
+        "hexColor": "#d33b41"
+    },
+    "70": {
+        "name": "70",
+        "hexColor": "#ffa500"
+    },
+    "71": {
+        "name": "71",
+        "hexColor": "#ffb6c1"
+    },
+    "72": {
+        "name": "72",
+        "hexColor": "#8fbc8f"
+    },
+    "73": {
+        "name": "73",
+        "hexColor": "#87cefa"
+    },
+    "74": {
+        "name": "74",
+        "hexColor": "#ffefd5"
+    },
+    "75": {
+        "name": "75",
+        "hexColor": "#fff5ee"
+    },
+    "76": {
+        "name": "76",
+        "hexColor": "#f5494f"
+    },
+    "77": {
+        "name": "77",
+        "hexColor": "#32cd32"
+    },
+    "78": {
+        "name": "78",
+        "hexColor": "#fa8072"
+    },
+    "79": {
+        "name": "79",
+        "hexColor": "#ffffe0"
+    },
+    "80": {
+        "name": "80",
+        "hexColor": "#bc8f8f"
+    },
+    "81": {
+        "name": "81",
+        "hexColor": "#778899"
+    },
+    "82": {
+        "name": "82",
+        "hexColor": "#5f9ea0"
+    },
+    "83": {
+        "name": "83",
+        "hexColor": "#808000"
+    },
+    "84": {
+        "name": "84",
+        "hexColor": "#3cb371"
+    },
+    "85": {
+        "name": "85",
+        "hexColor": "#48d1cc"
+    },
+    "86": {
+        "name": "86",
+        "hexColor": "#010101"
+    },
+    "87": {
+        "name": "87",
+        "hexColor": "#8a2be2"
+    },
+    "88": {
+        "name": "88",
+        "hexColor": "#00ff7f"
+    },
+    "89": {
+        "name": "89",
+        "hexColor": "#ffc0cb"
+    },
+    "90": {
+        "name": "90",
+        "hexColor": "#b22222"
+    },
+    "91": {
+        "name": "91",
+        "hexColor": "#ffffff"
+    },
+    "92": {
+        "name": "92",
+        "hexColor": "#00bfff"
+    },
+    "93": {
+        "name": "93",
+        "hexColor": "#a52a2a"
+    },
+    "94": {
+        "name": "94",
+        "hexColor": "#f0e68c"
+    },
+    "95": {
+        "name": "95",
+        "hexColor": "#0000cd"
+    },
+    "96": {
+        "name": "96",
+        "hexColor": "#800080"
+    },
+    "97": {
+        "name": "97",
+        "hexColor": "#006400"
+    },
+    "98": {
+        "name": "98",
+        "hexColor": "#ffdab9"
+    },
+    "99": {
+        "name": "99",
+        "hexColor": "#ee82ee"
+    },
+    "100": {
+        "name": "100",
+        "hexColor": "#00fa9a"
+    },
+    "101": {
+        "name": "101",
+        "hexColor": "#ff00ff"
+    },
+    "102": {
+        "name": "102",
+        "hexColor": "#7fffd4"
+    },
+    "103": {
+        "name": "103",
+        "hexColor": "#7b68ee"
+    },
+    "104": {
+        "name": "104",
+        "hexColor": "#7fff00"
+    },
+    "105": {
+        "name": "105",
+        "hexColor": "#fff0f5"
+    },
+    "106": {
+        "name": "106",
+        "hexColor": "#556b2f"
+    },
+    "107": {
+        "name": "107",
+        "hexColor": "#d3d3d3"
+    },
+    "108": {
+        "name": "108",
+        "hexColor": "#d2691e"
+    },
+    "109": {
+        "name": "109",
+        "hexColor": "#dcdcdc"
+    },
+    "110": {
+        "name": "110",
+        "hexColor": "#f0fff0"
+    },
+    "111": {
+        "name": "111",
+        "hexColor": "#6a5acd"
+    },
+    "112": {
+        "name": "112",
+        "hexColor": "#dc143c"
+    },
+    "113": {
+        "name": "113",
+        "hexColor": "#fdf5e6"
+    },
+    "114": {
+        "name": "114",
+        "hexColor": "#daa520"
+    },
+    "115": {
+        "name": "115",
+        "hexColor": "#fffaf0"
+    },
+    "116": {
+        "name": "116",
+        "hexColor": "#f0f8ff"
+    },
+    "117": {
+        "name": "117",
+        "hexColor": "#fffff0"
+    },
+    "118": {
+        "name": "118",
+        "hexColor": "#00ff00"
+    },
+    "119": {
+        "name": "119",
+        "hexColor": "#a0522d"
+    },
+    "120": {
+        "name": "120",
+        "hexColor": "#fffacd"
+    },
+    "121": {
+        "name": "121",
+        "hexColor": "#483d8b"
+    },
+    "122": {
+        "name": "122",
+        "hexColor": "#00ffff"
+    },
+    "123": {
+        "name": "123",
+        "hexColor": "#b0e0e6"
+    },
+    "124": {
+        "name": "124",
+        "hexColor": "#a9a9a9"
+    },
+    "125": {
+        "name": "125",
+        "hexColor": "#0000ff"
+    },
+    "126": {
+        "name": "126",
+        "hexColor": "#ffe4c4"
+    },
+    "127": {
+        "name": "127",
+        "hexColor": "#9932cc"
+    },
+    "128": {
+        "name": "128",
+        "hexColor": "#ff4500"
+    },
+    "129": {
+        "name": "129",
+        "hexColor": "#000080"
+    },
+    "130": {
+        "name": "130",
+        "hexColor": "#1e90ff"
+    },
+    "131": {
+        "name": "131",
+        "hexColor": "#ffff00"
+    },
+    "132": {
+        "name": "132",
+        "hexColor": "#f0ffff"
+    },
+    "133": {
+        "name": "133",
+        "hexColor": "#4b0082"
+    },
+    "134": {
+        "name": "134",
+        "hexColor": "#8b008b"
+    },
+    "135": {
+        "name": "135",
+        "hexColor": "#ffd700"
+    },
+    "136": {
+        "name": "136",
+        "hexColor": "#ff6468"
+    },
+    "137": {
+        "name": "137",
+        "hexColor": "#deb887"
+    },
+    "138": {
+        "name": "138",
+        "hexColor": "#eee8aa"
+    },
+    "139": {
+        "name": "139",
+        "hexColor": "#8b0000"
+    },
+    "140": {
+        "name": "140",
+        "hexColor": "#ffe4e1"
+    },
+    "141": {
+        "name": "141",
+        "hexColor": "#f4a460"
+    },
+    "142": {
+        "name": "142",
+        "hexColor": "#f8f8ff"
+    },
+    "143": {
+        "name": "143",
+        "hexColor": "#ffebcd"
+    },
+    "144": {
+        "name": "144",
+        "hexColor": "#f5f5f5"
+    },
+    "145": {
+        "name": "145",
+        "hexColor": "#d8bfd8"
+    },
+    "146": {
+        "name": "146",
+        "hexColor": "#afeeee"
+    },
+    "147": {
+        "name": "147",
+        "hexColor": "#c71585"
+    },
+    "148": {
+        "name": "148",
+        "hexColor": "#9932cc"
+    },
+    "149": {
+        "name": "149",
+        "hexColor": "#ff4500"
+    },
+    "150": {
+        "name": "150",
+        "hexColor": "#000080"
+    },
+    "152": {
+        "name": "152",
+        "hexColor": "#1e90ff"
+    },
+    "153": {
+        "name": "153",
+        "hexColor": "#ffff00"
+    },
+    "155": {
+        "name": "155",
+        "hexColor": "#f0ffff"
+    },
+    "156": {
+        "name": "156",
+        "hexColor": "#4b0082"
+    },
+    "157": {
+        "name": "157",
+        "hexColor": "#8b008b"
+    },
+    "158": {
+        "name": "158",
+        "hexColor": "#ffd700"
+    },
+    "159": {
+        "name": "159",
+        "hexColor": "#ff6468"
+    },
+    "160": {
+        "name": "160",
+        "hexColor": "#deb887"
+    },
+    "163": {
+        "name": "163",
+        "hexColor": "#eee8aa"
+    },
+    "164": {
+        "name": "164",
+        "hexColor": "#8b0000"
+    },
+    "165": {
+        "name": "165",
+        "hexColor": "#ffe4e1"
+    },
+    "166": {
+        "name": "166",
+        "hexColor": "#f4a460"
+    },
+    "167": {
+        "name": "167",
+        "hexColor": "#f8f8ff"
+    },
+    "168": {
+        "name": "168",
+        "hexColor": "#ffebcd"
+    },
+    "169": {
+        "name": "169",
+        "hexColor": "#f5f5f5"
+    },
+    "170": {
+        "name": "170",
+        "hexColor": "#d8bfd8"
+    },
+    "171": {
+        "name": "171",
+        "hexColor": "#afeeee"
+    },
+    "172": {
+        "name": "172",
+        "hexColor": "#c71585"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Command Usage": {
+        "total": 271,
+        "eval": 60,
+        "feature": 38,
+        "profile": 18,
+        "temp": 4,
+        "avatar": 8,
+        "levels": 5,
+        "ship": 5,
+        "rps": 1,
+        "asciiface": 11,
+        "sendchannel": 11,
+        "divorce": 2,
+        "marry": 7,
+        "invite": 4,
+        "rank": 13,
+        "color": 8,
+        "colorroles": 2,
+        "balance": 2,
+        "help": 19,
+        "8ball": 6,
+        "customise": 6,
+        "stats": 1,
+        "masspermchange": 27,
+        "messagecounter": 12,
+        "inviteme": 1
+    },
+    "lineCount": {
+        "commandFiles": 2581,
+        "mainFiles": 1804,
+        "total": 4385
+    },
+    "sentResetMessage": false,
+    "RubixViews": "100445",
+    "RubixVideos": "144",
+    "lastYoutubeUpdate": 1622036595435,
+    "lastDM": "97238312355364864"
+}
