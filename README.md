@@ -9,5 +9,5 @@ I've kept the databases in JSON on purpose so that anyone looking at this can se
 
 ## Other bots
 Wanna see more museum pieces? See my other discord bots:
-[Kuro](https://github.com/Amelixx/Kuro)
-[CoronaNews](https://github.com/Amelixx/Corona-News-Bot)
+- [Kuro](https://github.com/Amelixx/Kuro)
+- [CoronaNews](https://github.com/Amelixx/Corona-News-Bot)
